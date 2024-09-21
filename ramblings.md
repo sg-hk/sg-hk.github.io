@@ -49,24 +49,24 @@ si un lieu me convient, cest cette ile qui, au contraire, me donnait des impress
 
 je suis evidemment pas du coin; je ne compte pas le devenir non plus: lappartenance en fer forge a une quelconque culture - cest obsolete dans un monde digital si profondement interconnecte
 
-on arbore plusieurs facettes a la fois aujourdhui - comme on l’a toujours fait dailleurs: 
+on arbore plusieurs facettes a la fois aujourdhui - comme on la toujours fait dailleurs: 
 le caractère national, 
 
 communal, 
 
 familial, 
 
-et puis l’unicité de la personne constituaient sa personnalité - mais maintenant c’est une relation plus complexe
+et puis lunicité de la personne constituaient sa personnalité - mais maintenant cest une relation plus complexe
 
-un jeu d’influences mutuelles tres difficile a mettre a plat
+un jeu dinfluences mutuelles tres difficile a mettre a plat
 
-c’est une bonne chose. 
+cest une bonne chose. 
 
-on peut mieux reconnaitre ce qui nous constitue grace a ces differences, car c’est l’autre qui cree le moi, c’est un deuxieme pays qui genere une conscience nationale au sein dun premier pays
+on peut mieux reconnaitre ce qui nous constitue grace a ces differences, car cest lautre qui cree le moi, cest un deuxieme pays qui genere une conscience nationale au sein dun premier pays
 
 donc on peut concevoir maintenant les prejuges et preconceptions culturelles que notre vie a travers differentes communautes nous a legues
 
-pour ce qui me concerne, je suis europeen, mais je reconnais les traits de caracteres et les modeles de pensee europeens, je les sens a 3 kilometres, et donc je peux aussi eviter d’etre endigue dans des carcans de pensee; ou, tout au moins, jen ai plus de chance
+pour ce qui me concerne, je suis europeen, mais je reconnais les traits de caracteres et les modeles de pensee europeens, je les sens a 3 kilometres, et donc je peux aussi eviter detre endigue dans des carcans de pensee; ou, tout au moins, jen ai plus de chance
 
 cette chance vaut son poids en or. ce serait pareil quelques soient les circonstances de lieu et de temps qui auraient pu conditionner mon passe
 

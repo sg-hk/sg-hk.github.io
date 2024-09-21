@@ -1,8 +1,3 @@
----
-layout: default
-title: ramblings
----
-
 # ramblings
 
 i will do my best to write my blogposts in all 3 languages i feel proficient in. maybe one day i'll add chinese as a 4th

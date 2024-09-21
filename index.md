@@ -1,18 +1,13 @@
-
 ---
 layout: default
 title: Home
 ---
 
-# Welcome to My Website
+hi
 
-This is the homepage of my GitHub Pages site.
-
-## Table of Contents
-
-- [Intro](#)
-- [Ramblings](./ramblings)
-  - [Belonging and Essence](./ramblings#belonging-and-essence)
-  - [Appartenance](./ramblings#appartenance)
-  - [Свойство](./ramblings#свойство)
-- [Poetry](./poetry)
+- [intro](#)
+- [ramblings](./ramblings)
+  - [belonging and essence](./ramblings#belonging-and-essence)
+  - [appartenance](./ramblings#appartenance)
+  - [свойство](./ramblings#свойство)
+- [poetry](./poetry)

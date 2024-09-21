@@ -78,7 +78,7 @@ donc on peut concevoir maintenant les prejudices et preconceptions culturelles q
 
 pour ce qui me concerne, je suis europeen, mais je reconnais les traits de caracteres et les modeles de pensee europeens, je les sens a 3 kilometres, et donc je peux aussi eviter d’etre endigue dans des carcans de pensee; ou, tout au moins, j'en ai plus de chance
 
-et cette chance, elle vaut son poids en or
+cette chance vaut son poids en or
 
 ---
 

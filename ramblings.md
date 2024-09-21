@@ -45,7 +45,9 @@ we live in a world within which we are offered instant and continuous exposure t
 this innermost circle of unicity can now expand and irrupt beyond these barriers we thought infrangible
 
 now aware of what unites some and divides others, we can judge more fairly where we stand personally
+
 our identity becomes more authentic as a result. this is invaluable.
+
 
 ---
 

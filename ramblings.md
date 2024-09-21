@@ -26,7 +26,7 @@ family,
 
 up to the pure unicity of the individual.
 
-yet this perspective is still insufficient and inadequate and obsolete and crude and vile; yes i really do intend to use these morally-loaded guts and blood adjectives, because it feels sacriligeous to try to define what reifications human potential can take; and todays world plainly exposes this lie of a fixed group identity, of its necessity or its inevitable nature
+yet this perspective is still insufficient and inadequate and obsolete and crude and vile; yes i really do intend to use these morally-loaded guts and blood adjectives, because it feels sacrilegious to try to define what reifications human potential can take; and todays world plainly exposes this lie of a fixed group identity, of its necessity or its inevitable nature
 
 why? because we are exposed to a much greater variety of manifestations of human spirit than in the past, and its through the other that the self can affirm its individuality and gain self-awareness
 

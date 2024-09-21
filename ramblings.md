@@ -1,4 +1,4 @@
-
+:set fileencoding=utf-8
 ---
 layout: default
 title: ramblings

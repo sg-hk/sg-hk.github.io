@@ -16,9 +16,9 @@ differences will be substantial
 ### belonging and essence
 i never felt home when i did go home after a hiatus. instead i felt like the break i had from daily exposure to my root culture, and this cultures replacement with a different mode of life and thought had just made irritatingly conspicuous all the traits intrinsic to it
 
-this is a net positive; it shouldnt be interpreted as a destructive abnegation of one owns nature. it would be crude and vile to condense ones identity to the bounds geographical circumstance attempts to impose on it
+this is a net positive; it shouldnt be interpreted as a destructive abnegation of one owns nature. it would be crude and vile to confine ones identity within the bounds geographical circumstance attempts to impose on it
 
-instead, lets imagine country and nation to be the outermost layer; then smaller concentric circles would include more and more restricted socio-cultural groups:
+instead, lets imagine this circumstance, country and nation, to be the outermost layer of identity, furthest from the core; then, smaller and smaller concentric circles within it would correspond to smaller and smaller social belongings:
 
 community,
 
@@ -26,11 +26,9 @@ family,
 
 up to the pure unicity of the individual.
 
-yet this perspective is still insufficient and inadequate and obsolete and crude and vile; yes i really do intend to use these morally-loaded guts and blood adjectives; human potential is magnificient and even trying to define what reifications all this latent power can take feels sacriligeous
+yet this perspective is still insufficient and inadequate and obsolete and crude and vile; yes i really do intend to use these morally-loaded guts and blood adjectives, because it feels sacriligeous to try to define what reifications human potential can take; and today's world plainly exposes this lie of a fixed group identity, of its necessity or its inevitable nature
 
-todays world lay bare how much of a lie it all was, this concept of fixed group identity, or at least its necessity, its ineluctable nature; why? because we are exposed to a much greater variety of manifestations of human spirit than in the past
-
-its through the other that the self can affirm its individuality and gain self-awareness
+why? because we are exposed to a much greater variety of manifestations of human spirit than in the past, and its through the other that the self can affirm its individuality and gain self-awareness
 
 its because there is another country, another tribe, another family, another person that a person, a family, a tribe or a country becomes a valid concept; exposure to that which is different shatters preconceptions and the subject then sublates its consciousness into something greater
 
@@ -66,7 +64,7 @@ c’est une bonne chose.
 
 on peut mieux reconnaitre ce qui nous constitue grace a ces differences, car c’est l’autre qui cree le moi, c’est un deuxieme pays qui genere une conscience nationale au sein dun premier pays
 
-donc on peut concevoir maintenant les prejudices et preconceptions culturelles que notre vie a travers differentes communautes nous a legues
+donc on peut concevoir maintenant les prejuges et preconceptions culturelles que notre vie a travers differentes communautes nous a legues
 
 pour ce qui me concerne, je suis europeen, mais je reconnais les traits de caracteres et les modeles de pensee europeens, je les sens a 3 kilometres, et donc je peux aussi eviter d’etre endigue dans des carcans de pensee; ou, tout au moins, jen ai plus de chance
 

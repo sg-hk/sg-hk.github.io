@@ -13,7 +13,7 @@ by the way, in no way does this imply faithful translations from one language to
 
 differences will be substantial
 
-1. [belonging and essence](#belonging-essence)
+1. [belonging and essence](#belonging-and-essence)
 2. [appartenance](#appartenance)
 3. [свойство](#свойство)
 

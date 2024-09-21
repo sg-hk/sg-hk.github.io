@@ -16,7 +16,7 @@ differences will be substantial
 ### belonging and essence
 i never felt home when i did go home after a hiatus. instead i felt like the break i had from daily exposure to my root culture, and this cultures replacement with a different mode of life and thought had just made irritatingly conspicuous all the traits intrinsic to it
 
-this is a net positive; it shouldnt be interpreted as a destructive abnegation of one own's nature. it would be crude and vile to condense one's identity to the bounds geographical circumstance attempts to impose on it
+this is a net positive; it shouldnt be interpreted as a destructive abnegation of one owns nature. it would be crude and vile to condense ones identity to the bounds geographical circumstance attempts to impose on it
 
 instead, lets imagine country and nation to be the outermost layer; then smaller concentric circles would include more and more restricted socio-cultural groups:
 
@@ -45,13 +45,13 @@ now aware of what unites some and divides others, we can judge more fairly where
 
 ### appartenance
 
-une fois revenu en europe, je navais aucune impression d'etre de retour "chez moi"
+une fois revenu en europe, je navais aucune impression detre de retour "chez moi"
 
-si un lieu me convient, cest cette ile qui, au contraire, me donnait des impressions style Saint-John Perse, l'air humide, les senteurs vives et riches, les tropiques juteuses, enceintes de cent mille bestioles, les tropiques qui vibrent vertes
+si un lieu me convient, cest cette ile qui, au contraire, me donnait des impressions style Saint-John Perse, lair humide, les senteurs vives et riches, les tropiques juteuses, enceintes de cent mille bestioles, les tropiques qui vibrent vertes
 
-je suis evidemment pas du coin; je ne compte pas le devenir non plus: lappartenance en fer forge a une quelconque culture - c'est obsolete dans un monde digital si profondement interconnecte
+je suis evidemment pas du coin; je ne compte pas le devenir non plus: lappartenance en fer forge a une quelconque culture - cest obsolete dans un monde digital si profondement interconnecte
 
-on arbore plusieurs facettes a la fois aujourdhui - comme on l’a toujours fait d'ailleurs: 
+on arbore plusieurs facettes a la fois aujourdhui - comme on l’a toujours fait dailleurs: 
 le caractère national, 
 
 communal, 

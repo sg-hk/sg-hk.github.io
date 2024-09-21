@@ -3,7 +3,6 @@ layout: default
 title: ramblings
 ---
 
-:set fileencoding=utf-8
 # ramblings
 
 i will do my best to write my blogposts in all 3 languages i feel proficient in. maybe one day i'll add chinese as a 4th

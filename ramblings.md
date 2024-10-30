@@ -17,15 +17,25 @@ differences will be substantial
 ### draft
 
 english:
+
 your lips are like the wind here, 
+
 thick as syrup as it ran down my neck.
+
 this heat gives the world weight, the night gives its depth, 
+
 and your eyes shine in a haze of playfulness when we are outside
+
 it's so warm here senses blur together,
+
 your hand is ice, your hand is feathers and silk,
+
 can i hold you any closer?
+
 with perfect freedom you stride forward
+
 step after step, one with the liquid breeze,
+
 the buzzing tree, the heavy dusk
 
 french:

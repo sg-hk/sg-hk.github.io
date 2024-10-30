@@ -7,9 +7,32 @@ by the way, in no way does this imply faithful translations from one language to
 
 differences will be substantial
 
+0. [draft](#draft)
 1. [belonging and essence](#belonging-and-essence)
 2. [appartenance](#appartenance)
 3. [свойство](#свойство)
+
+---
+
+### draft
+
+english:
+your lips are like the wind here, 
+thick as syrup as it ran down my neck.
+this heat gives the world weight, the night gives its depth, 
+and your eyes shine in a haze of playfulness when we are outside
+it's so warm here senses blur together,
+your hand is ice, your hand is feathers and silk,
+can i hold you any closer?
+with perfect freedom you stride forward
+step after step, one with the liquid breeze,
+the buzzing tree, the heavy dusk
+
+french:
+scintillement trouble et lourd de langueur
+/
+ou s'enlacent les sens
+
 
 ---
 

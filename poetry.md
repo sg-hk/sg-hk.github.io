@@ -1,7 +1,7 @@
 # poetry
 
 1. [silence](#silence)
-
+2. [missing_europe](#missing_europe)
 
 ### silence
 
@@ -40,8 +40,6 @@ Je mourrais à nouveau d'un souvenir plus disert.
 Ne raisonne que vainement tel diapason
 
 Et se tâche quelque papier vierge sans raison.
-
-2. [missing_europe](#missing_europe)
 
 ### missing_europe
 

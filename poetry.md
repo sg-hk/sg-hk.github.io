@@ -1,7 +1,5 @@
 # poetry
 
-this will all be in french
-
 1. [silence](#silence)
 
 
@@ -42,3 +40,39 @@ Je mourrais à nouveau d'un souvenir plus disert.
 Ne raisonne que vainement tel diapason
 
 Et se tâche quelque papier vierge sans raison.
+
+2. [missing_europe](#missing_europe)
+
+### missing_europe
+
+The cold wind there will whip and lash your face;
+
+How pain can clear the mind and still the heart:
+
+The soul at once now may behold itself
+
+
+Bright joy, past smiles, effulgence gone to time,
+
+A palace! Gold on flowers woven, birds
+
+Whose songs in roseate tones coruscate
+
+Upon the sea; not air but sheer azure
+
+We breathe in Europe, garden glorious,
+
+You are my youth, my hope, my love, my shame
+
+Yes I have strayed too far: now stark lies truth
+
+The bitter echo bare that treasures sought
+
+Had been lost in an embroidered coffin
+
+
+Desolate, desolate now and fiercely
+
+The wind will open skin that begs to bleed,
+
+Losing someone so close somewhere so far.

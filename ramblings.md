@@ -1,48 +1,11 @@
 # ramblings
 
-i will do my best to write my blogposts in all 3 languages i feel proficient in. maybe one day ill add chinese as a 4th
-
-
-by the way, in no way does this imply faithful translations from one language to the next, but rather ill reproduce the idea as i see fit for the language. i'd like to respect the natural way a thought is molded by its linguistic and cultural constraints. sapir-wolf blogposting if you want to see it like that
-
-differences will be substantial
+the same blog post in the 3 languages i'm sort of comfortable in. hope to add chinese as a 4th one day.
 
 0. [draft](#draft)
 1. [belonging and essence](#belonging-and-essence)
 2. [appartenance](#appartenance)
 3. [свойство](#свойство)
-
----
-
-### draft
-
-english:
-
-your lips are like the wind here, 
-
-thick as syrup as it ran down my neck.
-
-this heat gives the world weight, the night gives its depth, 
-
-and your eyes shine in a haze of playfulness when we are outside
-
-it's so warm here senses blur together,
-
-your hand is ice, your hand is feathers and silk,
-
-can i hold you any closer?
-
-with perfect freedom you stride forward
-
-step after step, one with the liquid breeze,
-
-the buzzing tree, the heavy dusk
-
-french:
-scintillement trouble et lourd de langueur
-/
-ou s'enlacent les sens
-
 
 ---
 

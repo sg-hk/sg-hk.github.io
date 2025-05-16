@@ -4,7 +4,7 @@ title: Home
 permalink: /
 ---
 
-- [intro](#)
 - [ramblings](./ramblings)
 - [poetry](./poetry)
 - [calligraphy](./calligraphy)
+- [code](https://github.com/sg-hk/)

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Calligraphy
+permalink: /calligraphy/
 ---
 
 # Calligraphy

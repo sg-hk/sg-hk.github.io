@@ -60,7 +60,7 @@ Upon the sea; not air but sheer azure
 
 We breathe in Europe, garden glorious,
 
-You are my youth, my hope, my love, my shame
+At once my youth, my hope, my heart and shame
 
 Yes I have strayed too far: now stark lies truth
 

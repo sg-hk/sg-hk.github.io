@@ -1,0 +1,100 @@
+---
+---
+
+@import "{{site.theme}}";   // keep base theme styles
+
+/* --- Home cards --- */
+.home-grid {
+  display: flex;
+  gap: 2rem;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 2rem; // Adds some space below your hero image
+}
+
+.home-card {
+  display: flex;
+  flex-direction: column;   // Stacks the image and title vertically
+  align-items: center;      // Centers them horizontally
+  text-decoration: none;    // Removes the default link underline
+  color: inherit;           // Makes the title use the default text color
+  transition: transform 0.2s ease-in-out; // Smooth hover effect
+}
+
+// Lifts the card slightly when the user hovers over it
+.home-card:hover {
+  transform: translateY(-5px);
+}
+
+.home-card img {
+  width: 100px;             // New, smaller desktop size
+  height: 100px;
+  object-fit: contain;
+  margin-bottom: 0.75rem;   // Space between icon and title
+}
+
+.home-card-title {
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+/* Responsive adjustments for small screens */
+@media (max-width: 480px) {
+  .home-card img {
+    width: 80px;            // Smaller size for mobile
+    height: 80px;
+  }
+  .home-card-title {
+    font-size: 1rem;
+  }
+}
+
+/* Custom Typography & Layout */
+body {
+  font-family: 'Georgia', serif;  /* or try 'Cormorant Garamond', 'EB Garamond' for elegance */
+  font-size: 1.05rem;
+  line-height: 1.7;
+}
+
+/* Poetry styling */
+.poetry-intro {
+  text-align: center;
+  font-style: italic;
+  margin-bottom: 1.5rem;
+}
+
+.poem-index {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+
+.poem {
+  text-align: center;
+  max-width: 650px;
+  margin: 2rem auto;
+  font-family: 'Georgia', serif;
+  font-size: 1.1rem;
+  line-height: 1.8;
+  white-space: normal;
+}
+
+/* Calligraphy layout */
+.calligraphy-thumbs {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  flex-wrap: wrap;
+  margin-top: 1.5rem;
+}
+.ca
+
+.essay {
+  max-width: 700px;
+  margin: 2rem auto;
+  line-height: 1.8;
+  font-size: 1.1rem;
+  text-align: justify;
+  font-family: 'Georgia', serif;
+}

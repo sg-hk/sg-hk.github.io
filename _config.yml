@@ -1,0 +1,14 @@
+title: sg-hk webpage
+description: personal webpage
+remote_theme: yaoyao-liu/minimal-light
+# Navbar links
+header_pages:
+  - coding.md
+  - art.md
+  - thoughts.md
+
+# Collections for coding projects (optional but neat)
+collections:
+  projects:
+    output: true
+    permalink: /coding/:name/

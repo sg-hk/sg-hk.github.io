@@ -1,0 +1,108 @@
+---
+layout: page
+title: Coding Projects
+toc: true
+description: >
+  A selection of low-latency systems, quantitative finance research and tooling—
+  demonstrating C/C++ performance skills, Python/Go data engineering, and
+  full-stack ownership from idea to production.
+---
+
+<blockquote>
+  <strong>TL;DR</strong><br>
+  • Micro- to milli-second latency targets (C/C++, perfect hash functions, <code>inotify</code>)<br>
+  • Quant models (PDE solvers, neural nets)<br>
+  • Language-learning tools (personal, performance-obsessed)
+</blockquote>
+
+<hr>
+
+<h2>📈 models – Quant Finance Research Suite</h2>
+<p><small>(Open-source <em>core</em> repo is public; private components marked.)</small><br>
+🔗 <a href="https://github.com/sg-hk/models" target="_blank">github.com/sg-hk/models</a></p>
+
+<h3>▶ ML Options (Python)</h3>
+<ul>
+  <li>3-layer dense NN (12–15 neurons each)</li>
+  <li>Trained on <strong>GBM Monte-Carlo</strong> and analytic <strong>BSM PDE</strong> outputs</li>
+</ul>
+
+<h3>▶ PDE Solver (C++)</h3>
+<ul>
+  <li><strong>Crank–Nicolson</strong> finite difference scheme with <strong>Rannacher smoothing</strong></li>
+  <li>Vectorised grid solver for stability and precision</li>
+</ul>
+
+<h3>▶ Crypto Arb (C++) <span style="opacity: 0.6;">(private)</span></h3>
+<details>
+  <summary>Details (click to expand)</summary>
+  <ul>
+    <li>Spot-futures arbitrage engine across crypto exchanges</li>
+    <li>Profitable and benchmark-beating; currently live</li>
+    <li>Implements inventory-aware quoting & latency-hedged fills</li>
+  </ul>
+</details>
+
+<h3>▶ Kelly & Macro Dashboards (Python) <span style="opacity: 0.6;">(private)</span></h3>
+<details>
+  <summary>Details (click to expand)</summary>
+  <ul>
+    <li>Reproduction of “Empirical Asset Pricing via Machine Learning” (Kelly et al., 2018)</li>
+    <li>Extended for maximum return strategies</li>
+    <li>Built <strong>macro dashboard tools</strong> (Clewell et al., 2018) for trade idea generation & backtesting</li>
+  </ul>
+</details>
+
+<hr>
+
+<h2>barbar – Ultra-Low-Latency Status Bar (C)</h2>
+<p>
+  🔗 <a href="https://github.com/sg-hk/barbar" target="_blank">github.com/sg-hk/barbar</a>
+</p>
+<ul>
+  <li>Desktop status bar built with <strong>no external dependencies</strong></li>
+  <li>Reacts instantly to file events via <code>inotify</code>, avoiding polling</li>
+  <li>Shared memory + single mutex = <strong>sub-millisecond latency</strong></li>
+  <li>Mirrors constraints of <strong>real-time market data UIs</strong></li>
+</ul>
+
+<hr>
+
+<h2>ccq – Chinese SRS & Dictionary CLI (C + Go)</h2>
+<p>
+  🔗 <a href="https://github.com/sg-hk/ccq" target="_blank">github.com/sg-hk/ccq</a>
+</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Module</th>
+      <th>Stack</th>
+      <th>Highlights</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Reviewer</strong></td>
+      <td>C</td>
+      <td>Custom FSRS model, 0 dependencies, fully built from scratch</td>
+    </tr>
+    <tr>
+      <td><strong>Lookup TUI</strong></td>
+      <td>Go</td>
+      <td>Perfect hash on &gt;900k entries, Bubble Tea TUI, instant lookups</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><em>Why it matters to trading:</em> Hash-table design, memory-mapped I/O, ultra-responsive CLI/TUI interfaces.</p>
+
+<hr>
+
+<h2>✉️ Contact</h2>
+
+<p>If you’d like a walkthrough or access to private code under NDA:</p>
+
+<div style="text-align: center; margin-top: 1.5rem;">
+  <a class="btn btn--primary" href="mailto:michelhenry@tuta.com">Request more information →</a>
+</div>
